@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ca9e8ce1-26e0-49ef-9820-8a3f5ef2cd91": {
+      "ProjectGuid": "ca9e8ce1-26e0-49ef-9820-8a3f5ef2cd91",
+      "DisplayName": "GerenciadorConteudo",
+      "ColorIndex": 0
+    },
+    "09e8ac50-7d1a-48b4-a230-f967fb3386ca": {
+      "ProjectGuid": "09e8ac50-7d1a-48b4-a230-f967fb3386ca",
+      "DisplayName": "Database",
+      "ColorIndex": 1
+    },
+    "42213752-d4b8-4053-b3f2-95dfa903ef12": {
+      "ProjectGuid": "42213752-d4b8-4053-b3f2-95dfa903ef12",
+      "DisplayName": "Business",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
